@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Feranmi-codes
+/src/backend/database.py      @Feranmi-codes
+/src/backend/routers/auth.py  @Feranmi-codes
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Feranmi-codes
